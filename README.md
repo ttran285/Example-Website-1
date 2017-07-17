@@ -1,1 +1,1 @@
-# Example-Website-1
+# Website-Template-1
